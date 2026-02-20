@@ -1,8 +1,6 @@
 ## Hi there 👋
-# I'm Shorya Agarwal 
-# 💫 About Me:
+# I'm Shorya
 🔭 I'm currently working on  <br>Building scalable full‑stack applications and refining my portfolio projects with a focus on performance, clean architecture, and cloud‑ready deployments.<br><br>👯 I'm looking to collaborate on  <br>Open‑source projects involving backend systems, cloud infrastructure, or anything that requires debugging, optimization, or algorithmic problem‑solving.<br><br>🤝 I'm looking for help with  <br>Breaking into full‑time Software Engineering roles and contributing to larger engineering communities where I can learn from experienced developers.<br><br>🌱 I'm currently learning  <br>Advanced system design, cloud-native patterns, and improving my mastery of Python, C++, and JavaScript through real-world projects.<br><br>💬 Ask me about  <br>Debugging tricky issues, optimizing code for performance, cloud resource troubleshooting (especially Azure), or building clean, maintainable engineering workflows.<br><br>⚡ Fun fact  <br>I love solving complex problems , whether it’s an algorithm, a cloud deployment issue, or a workflow bottleneck — and I enjoy making systems faster, cleaner, and more reliable.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shoryaag/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shorya31@tamu.edu) 
@@ -20,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shorya-agarwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
